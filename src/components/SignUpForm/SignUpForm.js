@@ -1,5 +1,5 @@
 import { Component } from "react";
-import { signUp } from "../utilities/users-service";
+import { signUp } from "../../utilities/users-service";
 import { useState } from "react";
 
 export default class SignUpForm extends Component {

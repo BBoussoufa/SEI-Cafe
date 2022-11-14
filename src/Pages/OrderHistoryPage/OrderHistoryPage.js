@@ -1,7 +1,7 @@
 import styles from "./OrderHistoryPage.module.css";
 import { useState, useEffect } from "react";
 import { Link } from "react-router-dom";
-import * as ordersAPI from "../../utilities/orders-api";
+import * as ordersAPI from "../../utilities/order-api";
 import Logo from "../../components/Logo/Logo";
 import UserLogOut from "../../components/UserLogOut/UserLogOut";
 import OrderList from "../../components/OrderList/OrderList";
