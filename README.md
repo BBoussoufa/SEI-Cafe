@@ -16,7 +16,9 @@ The website is filled with dummy text where needed.
 
 
 
-Built With
+Built With:
+
+
 HTML
 CSS
 JAVASCRIPT
