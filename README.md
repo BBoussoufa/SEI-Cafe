@@ -1,5 +1,5 @@
 
-Sei-cafe is website where the user could sign up and sign in to order food .
+Sei-cafe is an app where the user can sign up and sign in to order food .
 
 
 A landing page template for a restaurant, Sei-Cafe. It employs the use of HTML, CSS, Javascript and React to build it.
