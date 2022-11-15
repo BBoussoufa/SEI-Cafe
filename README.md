@@ -1,4 +1,6 @@
 
+SEI-Cafe app
+
 Sei-cafe is an app where the user can sign up ,sign in, log out and then order food .
 
 
