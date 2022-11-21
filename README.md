@@ -1,22 +1,22 @@
-#SEI-Cafe app
+SEI-Cafe app
 
 ## Screenshots
 
-#Description:
-Sei-cafe is an app where the user can sign up ,sign in, log out and then order some delicious food .
-A landing page template for a restaurant, Sei-Cafe. It employs the use of HTML, CSS, Javascript and React to build it.
+Description:
+* Sei-cafe is an app where the user can sign up ,sign in, log out and then order some delicious food .
+* A landing page template for a restaurant, Sei-Cafe. It employs the use of HTML, CSS, Javascript and React to build it.
 
 - A meal type section.
 - A food and drinks section.
 - An Order food history
 - The website is filled with dummy text where needed.
 
-##Built With:
+Built With:
 
-*HTML
-*CSS
-*JAVASCRIPT
-*React
-*Node js
-*Express
-*Morgan
+* HTML
+* CSS
+* JAVASCRIPT
+* React
+* Node js
+* Express
+* Morgan
