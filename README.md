@@ -2,9 +2,7 @@ SEI-Cafe app
 
 ## Screenshots
 
-"C:\Users\BOUSS\OneDrive\Desktop\Cohort27\Module1\Portfolio\Images\screen 2.png"
-
-screen 1.png
+![](C:\Users\BOUSS\OneDrive\Desktop\Cohort27\Module1\Portfolio\Images\screen 1.png)
 
 Description:
 
