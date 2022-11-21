@@ -2,7 +2,9 @@ SEI-Cafe app
 
 ## Screenshots
 
-![](C:\Users\BOUSS\OneDrive\Desktop\Cohort27\Module1\Portfolio\Images\screen 1.png)
+![](https://user-images.githubusercontent.com/110860644/202943946-06055676-bbbb-47a4-a2ea-0a7c948e7a7c.png)
+
+![](https://user-images.githubusercontent.com/110860644/202943976-b3f68a4d-6a79-4b8a-928b-e9f9a8bf6d3f.png)
 
 Description:
 
